@@ -1,0 +1,24 @@
+
+ Eskaerak: 200 -- Azken emaitza: 42533.887
+ Tex (serie): 1459.652 ms
+
+ 
+
+ Eskaerak: 200 -- Azken emaitza: 42533.887
+ Tex (serie): 1349.061 ms
+
+ 
+
+ Eskaerak: 200 -- Azken emaitza: 42533.887
+ Tex (serie): 1364.160 ms
+
+ 
+
+ Eskaerak: 200 -- Azken emaitza: 42533.887
+ Tex (serie): 1390.962 ms
+
+ 
+
+ Eskaerak: 200 -- Azken emaitza: 42533.887
+ Tex (serie): 1341.491 ms
+
